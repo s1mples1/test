@@ -13,7 +13,6 @@
 			</plugin>
 		</plugins>
 	</build>
-  
   <!-- 指定当前项目的字符编码以及JDK版本号 -->
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
